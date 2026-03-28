@@ -117,32 +117,10 @@ Add it to your project's classpath.
 javac -cp .;mysql-connector-java-8.0.33.jar src/Main.java
 java -cp .;mysql-connector-java-8.0.33.jar Main
 
-
 5. Default Login Credentials
-
-Role
-
-Username
-
-Password
-
-Admin
-
-admin
-
-admin123
-
-Lecturer
-
-lecturer1
-
-pass123
-
-Student
-
-student1
-
-pass123
+Admin:    Username: admin       Password: admin123
+Lecturer: Username: lecturer1   Password: pass123
+Student:  Username: student1    Password: pass123
 
 🔄 Workflow Example
 
